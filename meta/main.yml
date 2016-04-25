@@ -1,0 +1,6 @@
+galaxy_info:
+  author: Jim Graf
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.2
+  galaxy_tags: []
+dependencies: []
